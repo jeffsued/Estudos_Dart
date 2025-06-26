@@ -1,10 +1,10 @@
 import 'dart:io';
 
 void main() {
-  String? Num1 = stdin.readLineSync();
+  String? pal1 = stdin.readLineSync();
 
-  String? Num2 = stdin.readLineSync();
+  String? pal2 = stdin.readLineSync();
 
-  String Concatena = Num1! + Num2!;
+  String Concatena = pal1! + pal2!;
   print(Concatena);
 }
