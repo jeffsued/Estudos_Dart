@@ -1,5 +1,4 @@
 import "dart:io";
-import "dart:math";
 
 int ocorrenciaDePares(List<int> lista) {
   int cont = 0;
